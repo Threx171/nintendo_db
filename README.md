@@ -1,4 +1,5 @@
 # nintendo_db
+Author: Alejandro León Rodríguez
 
 A new Flutter project.
 
